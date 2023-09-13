@@ -334,6 +334,7 @@ Mac McHam
 - [Ajay](https://github.com/ajay-k12)
 - [Daniel] (https://github.com/dcgran)
 - [gaagly] (I have added this data using termux on android)
+- [Holmes] (https://github.com/Holmes-rgb)
 - [mohamed] (...)
 - [Christopher Bailey] (https://github.com/Chris7007)
 - [Omar] (https://github.com/Omarr-kh)
